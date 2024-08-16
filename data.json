@@ -5,7 +5,7 @@
       "type": "mappack",
       "name": "Mari0 Odyssey",
       "long_name": "Super Mari0 Odyssey",
-      "description": "Travel Around The World",
+      "description": "Travel Around\nThe World",
       "version": "1.0.0",
       "author": "alesan99",
       "download": {
@@ -24,7 +24,7 @@
       "type": "mappack",
       "name": "SMM2 Compilation",
       "long_name": "Super Mario Maker 2 Compilation",
-      "description": "Venture into the new worlds of Mario Maker 2!",
+      "description": "Venture into the\nnew worlds of\nMario Maker 2!",
       "version": "1.0.0",
       "author": "alesan99",
       "download": {
@@ -57,7 +57,7 @@
     {
       "type": "character",
       "name": "Sonic",
-      "description": "Play with this Sonic character!",
+      "description": "Play with this\nSonic character!",
       "version": "1.0.0",
       "author": "megabound",
       "download": {
@@ -74,7 +74,7 @@
     {
       "type": "mappack",
       "name": "Retrush",
-      "description": "Blast Through The Past!",
+      "description": "Blast Through\nThe Past!",
       "version": "1.0.1",
       "author": "Skysometric",
       "download": {
@@ -93,7 +93,7 @@
     {
       "type": "mappack",
       "name": "Simile Thoughts",
-      "description": "challenging logical puzzles for mari0!",
+      "description": "challenging\nlogical puzzles\nfor mari0!",
       "version": "1.0.1",
       "author": "hugobdesigner",
       "download": {
@@ -227,7 +227,7 @@
       "type": "mappack",
       "name": "Project SNES Demo",
       "long_name": "Project SNES Demo 2",
-      "description": "Embark on a journey to save the princess!",
+      "description": "Embark on a\njourney to save\nthe princess!",
       "version": "0.2.0",
       "author": "PSNES Devs.",
       "download": {
