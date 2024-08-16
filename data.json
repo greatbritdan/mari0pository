@@ -41,6 +41,37 @@
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5340"
     },
     {
+      "type": "character",
+      "name": "Mari0 Kirby (V3)",
+      "description": "Inhale enemies to copy abilities in a new playstyle",
+      "version": "3.0.0",
+      "author": "WilliamFrog",
+      "released": "2022-12-16",
+      "updated": "2023-08-23",
+      "game_version": {
+        "derivative": ["AE"]
+      },
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=21&t=5533",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Kirby.png"
+    },
+    {
+      "type": "character",
+      "name": "Sonic",
+      "description": "Play with this Sonic character!",
+      "version": "1.0.0",
+      "author": "megabound",
+      "download": {
+        "url": "https://mari0pository.us-east-1.linodeobjects.com/s0nic.zip",
+        "filename": "s0nic.zip"
+      },
+      "released": "2020-06-22",
+      "updated": "2020-06-22",
+      "game_version": {
+        "derivative": ["AE"]
+      },
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Sonic.png"
+    },
+    {
       "type": "mappack",
       "name": "Retrush",
       "description": "Blast Through The Past!",
@@ -61,21 +92,21 @@
     },
     {
       "type": "mappack",
-      "name": "Project SNES Demo",
-      "long_name": "Project SNES Demo 2",
-      "description": "Embark on a journey to save the princess!",
-      "version": "0.2.0",
-      "author": "PSNES Devs.",
+      "name": "Simile Thoughts",
+      "description": "challenging logical puzzles for mari0!",
+      "version": "1.0.1",
+      "author": "hugobdesigner",
       "download": {
-        "url": "https://www.dropbox.com/s/y07jdrcuy3fc16h/psnes_demo_2.zip?dl=1",
-        "filename": "psnes_demo_2.zip"
+        "url": "https://www.dropbox.com/s/m9pd7r5y8empwf2/Simile%20Thoughts.zip?dl=1",
+        "filename": "Simile_Thoughts.zip"
       },
-      "released": "2022-08-28",
-      "updated": "2022-08-28",
       "game_version": {
-        "derivative": ["AE"]
+        "derivative": ["1.6", "AE"]
       },
-      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/ProjectSNES.png"
+      "released": "2021-06-30",
+      "updated": "2021-07-19",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5451",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SimileThoughts.png"
     },
     {
       "type": "mappack",
@@ -96,24 +127,6 @@
       "updated": "2021-10-24",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5450",
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/DreamVacation.png"
-    },
-    {
-      "type": "mappack",
-      "name": "Simile Thoughts",
-      "description": "challenging logical puzzles for mari0!",
-      "version": "1.0.1",
-      "author": "hugobdesigner",
-      "download": {
-        "url": "https://www.dropbox.com/s/m9pd7r5y8empwf2/Simile%20Thoughts.zip?dl=1",
-        "filename": "Simile_Thoughts.zip"
-      },
-      "game_version": {
-        "derivative": ["1.6", "AE"]
-      },
-      "released": "2021-06-30",
-      "updated": "2021-07-19",
-      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5451",
-      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SimileThoughts.png"
     },
     {
       "type": "mappack",
@@ -211,33 +224,22 @@
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/CartridgeTilt.png"
     },
     {
-      "type": "character",
-      "name": "Sonic",
-      "description": "Play with this Sonic character!",
-      "version": "1.0.0",
-      "author": "megabound",
+      "type": "mappack",
+      "name": "Project SNES Demo",
+      "long_name": "Project SNES Demo 2",
+      "description": "Embark on a journey to save the princess!",
+      "version": "0.2.0",
+      "author": "PSNES Devs.",
       "download": {
-        "url": "https://mari0pository.us-east-1.linodeobjects.com/s0nic.zip",
-        "filename": "s0nic.zip"
+        "url": "https://www.dropbox.com/s/y07jdrcuy3fc16h/psnes_demo_2.zip?dl=1",
+        "filename": "psnes_demo_2.zip"
       },
-      "released": "2020-06-22",
-      "updated": "2020-06-22",
+      "released": "2022-08-28",
+      "updated": "2022-08-28",
       "game_version": {
         "derivative": ["AE"]
       },
-      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Sonic.png"
-    },
-    {
-      "type": "character",
-      "name": "Kirby",
-      "version": "3.0.0",
-      "author": "WilliamFrog",
-      "released": "2022-12-16",
-      "updated": "2023-08-23",
-      "game_version": {
-        "derivative": ["AE"]
-      },
-      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=21&t=5533"
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/ProjectSNES.png"
     }
   ]
 }
